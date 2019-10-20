@@ -1,0 +1,20 @@
+.jumbotron1{
+    background-image: url("/static/images/image2.jpg");
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-size: cover;
+
+}
+
+.jumbotron2{
+    background-color: lightcoral;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-size: cover;
+    
+}
+
+.container{
+    background-color:rgb(217, 221, 230);
+    min-width: 100%;
+}
